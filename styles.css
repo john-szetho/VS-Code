@@ -29,14 +29,14 @@ div {
 }
 
 .masthead {
-    height: 100%;
+    height: calc(100% - 24px);
     background-color: blue;
     color: moccasin;
 }
 
 .bg1 {
     background-color: black;
-    color: moccasin;
+    color: floralwhite;
 }
 
 .bg2 {
